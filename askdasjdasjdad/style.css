@@ -28,6 +28,7 @@
         }
         .result {
             margin-top: 20px;
+            color: white;
         }
         .error {
             color: red;
